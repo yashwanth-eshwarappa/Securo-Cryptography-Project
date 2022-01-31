@@ -4,18 +4,22 @@ This Cryptography Project aimed at combining Steganography and Cryptography tech
 
 Using the AES and LSB techniques to encrypt and hide the information into a given image, we can successfully increase the security of the vital information by certain levels. This method will also help the users to reduce the risk of information eavesdropping and leakage of information by intruders. Hence, the proposed system provides enhanced security. Also the proposed system supports a wider range of image types; which in turn helps a wider range of users to use this system. The system uses a unique LSB technique which maintains good quality of the image. And also the new system is more user friendly and anyone with the basic computer knowledge can use the system without any difficulties encountered while using the application.
 
-
+![SECURO](https://user-images.githubusercontent.com/97561730/151731193-0279aa96-38f2-416a-bf92-1181cb55dda2.jpg)
 SECURO Welcome Page of Software
 
-
+![Select the format](https://user-images.githubusercontent.com/97561730/151731225-f44ec6ab-0626-41f1-a765-fe6ae97d0ecc.jpg)
 Select the format Window to Navigate desired Encryption/Decryption. Also to change password
 
+![35hmpnz0bDz0rwegl4bwsXjgNN6g5RJapf6OTjcjyzsT640Ts7JIgAn2VeRGWJYt_0NzKigA2hAlK6FStCPDgei0glRaAiIG0ayx3Lr2tPGwX4bTNGFwlk9pMya6](https://user-images.githubusercontent.com/97561730/151731265-b4b8b4f9-9655-476a-b4ff-19c0e12d5aa0.jpg)
 Secret Key Text Encryption window after completing Encryption.
 
+![Cover Image](https://user-images.githubusercontent.com/97561730/151731276-4a1daef8-a25a-4a13-8be9-ae7f40a5df90.jpg)
 3xz7Sl1IVaVFlnNGE-Vun69QHary3If2KIAHBBGa3SRfghmub-UrNtNy64Tc-USkYWtwqt2uv19fe9s3C_CM2Rk9zIw1LzUwA4kz_DpwmYDYPlJTWgRiN1sorAQE Text Decryption window after the Process.
 
+![Secret Key](https://user-images.githubusercontent.com/97561730/151731285-fe5cac54-5999-4a72-a465-1dba0af77c25.jpg)
 35hmpnz0bDz0rwegl4bwsXjgNN6g5RJapf6OTjcjyzsT640Ts7JIgAn2VeRGWJYt_0NzKigA2hAlK6FStCPDgei0glRaAiIG0ayx3Lr2tPGwX4bTNGFwlk9pMya6 Image Encryption window after completing encryption process.
 
+![3xz7Sl1IVaVFlnNGE-Vun69QHary3If2KIAHBBGa3SRfghmub-UrNtNy64Tc-USkYWtwqt2uv19fe9s3C_CM2Rk9zIw1LzUwA4kz_DpwmYDYPlJTWgRiN1sorAQE](https://user-images.githubusercontent.com/97561730/151731297-cc7a4c82-5dee-4e3c-8410-c09efd180371.jpg)
 Cover Image Image Decryption window after completion process.
 
 Existing System and its Disadvantages:
